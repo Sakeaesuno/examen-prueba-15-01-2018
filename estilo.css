@@ -1,0 +1,33 @@
+@charset "utf-8";
+/*Maria Rocafull Garcia 18/01/2019*/
+body{
+   
+    background: url("img/copyright.svg") repeat-y top left , url("img/public-domain.svg")repeat-y top right;
+    background-color: #FCA684;
+    background-size: 3rem;
+    margin-left: 10rem;
+    margin-right: 10rem
+}
+header{
+    text-align: center;
+}
+h1{
+    text-shadow: white 0px -3px;
+}
+p.blanco{
+    color:white;
+}
+span.guion{
+    color: black;
+}
+article{
+    background-color: #FCCABB;
+ 
+
+}
+h2{
+    background: black;
+    color:white;
+    border-top-left-radius: 200px;
+
+}
