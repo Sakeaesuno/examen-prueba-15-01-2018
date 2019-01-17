@@ -22,12 +22,15 @@ span.guion{
 }
 article{
     background-color: #FCCABB;
-    border: solid black 3px;
+    border-bottom: solid black 3px;
+    border-left: solid black 3px;
+    border-right: solid black 3px;
+    border-bottom-right-radius: 10px;
 }
 h2{
     background: black;
     color:white;
-    border-top-left-radius: 200px;
+    border-top-left-radius: 10px;
 }
 span.Wikipedia{
     color:white;
@@ -40,5 +43,8 @@ footer{
     text-align: right;
 }
 span.subrayado{
+    text-decoration: underline;
+}
+p.cursiva{
     font-style: italic;
 }
