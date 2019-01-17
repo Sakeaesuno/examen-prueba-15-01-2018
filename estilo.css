@@ -22,6 +22,7 @@ span.guion{
 }
 article{
     background-color: #FCCABB;
+    border: solid black 3px;
 }
 h2{
     background: black;
