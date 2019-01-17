@@ -22,12 +22,22 @@ span.guion{
 }
 article{
     background-color: #FCCABB;
- 
-
 }
 h2{
     background: black;
     color:white;
     border-top-left-radius: 200px;
+}
+span.Wikipedia{
+    color:white;
 
+}
+span.fecha{
+    background: white;
+}
+footer{
+    text-align: right;
+}
+span.subrayado{
+    font-style: italic;
 }
